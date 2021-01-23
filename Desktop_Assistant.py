@@ -1,7 +1,7 @@
-import pyttsx3 #pip install pyttsx3
+import pyttsx3 
 import datetime
-import speech_recognition as sr #pip install speechRecognition  #pip install pipwin  #pip install pyaudio
-import wikipedia # pip install wikipedia
+import speech_recognition as sr
+import wikipedia
 import webbrowser
 import os
 import tkinter as tk
